@@ -20,4 +20,6 @@ Login with any of the following credentials👇
 
 ### Chat App Window👇
 
+<img width="960" alt="App Demo" src="https://user-images.githubusercontent.com/64271130/106473170-7c353d00-64c9-11eb-870f-1b760ba885cb.png">
+
 
