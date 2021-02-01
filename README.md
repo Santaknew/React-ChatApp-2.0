@@ -22,7 +22,7 @@ Login with any of the following credentials👇
 
 <img width="960" alt="App Demo" src="https://user-images.githubusercontent.com/64271130/106473170-7c353d00-64c9-11eb-870f-1b760ba885cb.png">
 
-## 📲 Connect with me on social media 
+## Connect with me on social media📲  
 <p align="left">
   <a target="_blank"href="https://www.linkedin.com/in/santanu-biswas-1482591a7/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
   <a target="_blank"href="https://www.facebook.com/Neil7rockzz"><img src="https://img.shields.io/badge/-FACEBOOK-0066ff?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
