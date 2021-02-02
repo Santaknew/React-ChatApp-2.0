@@ -4,7 +4,7 @@ This is a simple realtime chat web application built using <strong>React Chat En
 
 ## Important Links⚠️
 * Click <a href="https://chatengine.io/">here</a> to open Chat Engine website
-* Click <a href="https://santanuchatapp.netlify.app/">here</a> to see the demo (hosted website)
+* Click <a href="https://santanuchatapp.netlify.app/">here</a> to check the demo (hosted website)
 
 Login with any of the following credentials👇
 
